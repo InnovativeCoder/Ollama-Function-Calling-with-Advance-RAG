@@ -1,0 +1,75 @@
+[
+      {
+        "title": "Bruschetta",
+        "description": "Toasted bread topped with diced tomatoes, garlic, basil, and olive oil.",
+        "keywords": "appetizer, Italian, tomatoes, garlic, basil, olive oil",
+        "page": 1
+      },
+      {
+        "title": "Caprese Salad",
+        "description": "Fresh mozzarella, ripe tomatoes, and basil drizzled with balsamic glaze.",
+        "keywords": "salad, Italian, mozzarella, tomatoes, basil, balsamic glaze",
+        "page": 1
+      },
+      {
+        "title": "Fried Calamari",
+        "description": "Lightly breaded and fried calamari served with marinara sauce.",
+        "keywords": "appetizer, seafood, Italian, calamari, marinara sauce",
+        "page": 1
+      },
+      {
+        "title": "Spaghetti Carbonara",
+        "description": "Spaghetti pasta tossed with pancetta, eggs, parmesan cheese, and black pepper.",
+        "keywords": "pasta, Italian, spaghetti, pancetta, eggs, parmesan cheese, black pepper",
+        "page": 1
+      },
+      {
+        "title": "Fettuccine Alfredo",
+        "description": "Fettuccine pasta tossed in a creamy parmesan sauce.",
+        "keywords": "pasta, Italian, fettuccine, creamy, parmesan sauce",
+        "page": 1
+      },
+      {
+        "title": "Ravioli di Funghi",
+        "description": "Homemade ravioli stuffed with wild mushrooms and ricotta cheese, served with marinara sauce.",
+        "keywords": "pasta, Italian, ravioli, mushrooms, ricotta cheese, marinara sauce",
+        "page": 1
+      },
+      {
+        "title": "Chicken Parmigiana",
+        "description": "Breaded chicken breast topped with marinara sauce and melted mozzarella cheese, served with spaghetti.",
+        "keywords": "main course, Italian, chicken, parmesan, marinara sauce, mozzarella cheese, spaghetti",
+        "page": 1
+      },
+      {
+        "title": "Veal Marsala",
+        "description": "Tender veal cutlets sautéed with mushrooms in a Marsala wine sauce, served with roasted potatoes.",
+        "keywords": "main course, Italian, veal, marsala, mushrooms, wine sauce, roasted potatoes",
+        "page": 1
+      },
+      {
+        "title": "Eggplant Parmesan",
+        "description": "Breaded eggplant slices topped with marinara sauce and melted mozzarella cheese, served with spaghetti.",
+        "keywords": "main course, Italian, eggplant, parmesan, marinara sauce, mozzarella cheese, spaghetti",
+        "page": 1
+      },
+      {
+        "title": "Tiramisu",
+        "description": "Classic Italian dessert made with layers of coffee-soaked ladyfingers and mascarpone cheese.",
+        "keywords": "dessert, Italian, tiramisu, coffee, ladyfingers, mascarpone cheese",
+        "page": 1
+      },
+      {
+        "title": "Cannoli",
+        "description": "Crispy pastry shells filled with sweetened ricotta cheese and chocolate chips.",
+        "keywords": "dessert, Italian, cannoli, pastry, ricotta cheese, chocolate chips",
+        "page": 1
+      },
+      {
+        "title": "Gelato",
+        "description": "Assorted flavors of Italian gelato.",
+        "keywords": "dessert, Italian, gelato, ice cream, flavors",
+        "page": 1
+      }
+    ]
+  
