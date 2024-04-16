@@ -72,8 +72,6 @@ else:
     
     index = load_index_from_storage(storage_context)
 
-#TODO- convert the document properly using json format we are using
-
 
 # Now querying the vector index
 retriever = VectorIndexRetriever(index=index, similarity_top_k=10)
@@ -102,6 +100,9 @@ def parse_response_to_json(response_str):
 
 
 def query_index(query):
+    print("reached the def for query engine")
+    dummy_response  = query_engine.query("tell em what on menu today?")
+    print("i am dummy response",dummy_response)
     response = query_engine.query(query)
     # Original results parsed to JSON
     print("i am json fo the query", response)
