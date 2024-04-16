@@ -1,0 +1,8 @@
+Flask==3.0.3
+instructor==1.2.0
+llama_index==0.10.29
+ollama==0.1.8
+openai==1.19.0
+pydantic==2.7.0
+Requests==2.31.0
+yfinance==0.2.37
